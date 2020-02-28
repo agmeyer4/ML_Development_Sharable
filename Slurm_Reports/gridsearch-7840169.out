@@ -1,0 +1,472 @@
+ERROR: This cross-compiler package contains no program /uufs/chpc.utah.edu/common/home/u0890904/software/pkg/miniconda3/envs/CO2_Eddy/bin/x86_64-conda_cos6-linux-gnu-cc
+ERROR: activate-gcc_linux-64.sh failed, see above for details
+ERROR: This cross-compiler package contains no program /uufs/chpc.utah.edu/common/home/u0890904/software/pkg/miniconda3/envs/CO2_Eddy/bin/x86_64-conda_cos6-linux-gnu-gfortran
+INFO: activate-gfortran_linux-64.sh made the following environmental changes:
++HOST=x86_64-conda_cos6-linux-gnu
+ERROR: This cross-compiler package contains no program /uufs/chpc.utah.edu/common/home/u0890904/software/pkg/miniconda3/envs/CO2_Eddy/bin/x86_64-conda_cos6-linux-gnu-c++
+ERROR: activate-gxx_linux-64.sh failed, see above for details
+reading in pickle
+lagging 1 periods
+gridsearching
+Fitting 3 folds for each of 324 candidates, totalling 972 fits
+Using TensorFlow backend.
+[Parallel(n_jobs=-1)]: Using backend LokyBackend with 56 concurrent workers.
+2020-02-27 14:35:43.093916: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.097993: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.094104: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.094036: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.098104: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.098275: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.098394: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.098507: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.098660: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.098753: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.098905: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.094217: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.095385: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.099429: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.100065: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.100206: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.095473: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.100729: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.100839: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.100975: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.101063: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.101174: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.101294: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.101381: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.101811: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.102151: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.102275: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.102381: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.102479: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.102567: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.102685: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.102837: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.102976: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.103297: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.103462: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.103937: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.104069: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.104168: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.095568: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.104588: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.095925: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.096193: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.096274: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.105423: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.096421: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.096826: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.096956: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.097068: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.107840: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.108304: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.108572: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.097182: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.097348: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.108895: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.097442: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.097776: I tensorflow/core/platform/cpu_feature_guard.cc:145] This TensorFlow binary is optimized with Intel(R) MKL-DNN to use the following CPU instructions in performance critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in non-MKL-DNN operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-02-27 14:35:43.115889: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.116876: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.117454: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.117871: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.118081: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.118695: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.119079: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.119730: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.120425: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.120563: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.121727: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55c373229600 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.121790: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.121790: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.122000: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55f158752e00 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.122036: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.122417: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x557836e22600 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.122462: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.123483: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x563386578600 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.123520: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.123787: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x562f574d6e40 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.123832: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.124317: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.124452: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55b934c98bd0 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.124492: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.124711: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x557efb5eb1a0 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.124741: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.124966: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55a7e2311eb0 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.125004: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.125479: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x56088e5bb4d0 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.125522: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.125847: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.126041: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.126193: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55e9c37d0e90 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.126234: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.127170: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.127958: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x560e2d5c2930 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.128007: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.128044: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x555965b93a60 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.128096: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.128677: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.128978: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.129369: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55582ab9f1f0 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.129403: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.129381: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.129406: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.129994: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5644cb8a8750 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.130030: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+terminate called after throwing an instance of 'terminate called after throwing an instance of 'terminate called after throwing an instance of 'terminate called after throwing an instance of 'std::system_errorstd::system_errorstd::system_errorstd::system_error'
+'
+'
+'
+  what():    what():    what():    what():  Resource temporarily unavailableResource temporarily unavailableResource temporarily unavailableResource temporarily unavailable
+
+
+
+terminate called after throwing an instance of 'std::system_error'
+  what():  Resource temporarily unavailable
+terminate called after throwing an instance of 'std::system_error'
+  what():  Resource temporarily unavailable
+terminate called after throwing an instance of 'std::system_error'
+  what():  Resource temporarily unavailable
+2020-02-27 14:35:43.134311: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.134382: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.138378: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x56441be9dae0 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.138418: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.138790: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x558e18a3ac80 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.138827: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.139778: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.144125: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55881d671b20 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.144158: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.145114: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.147262: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.147455: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.148542: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.148905: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5622c94bf090 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.148947: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.149277: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.150726: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55f6f8940ae0 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.150753: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.151671: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x562cbc389520 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.151702: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.151689: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x560f7f698be0 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.151731: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.152825: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5639cddf9000 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.152855: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.153306: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+terminate called after throwing an instance of 'std::system_error'
+  what():  Resource temporarily unavailable
+terminate called after throwing an instance of 'std::system_error'
+  what():  Resource temporarily unavailable
+terminate called after throwing an instance of 'std::system_error'
+  what():  Resource temporarily unavailable
+2020-02-27 14:35:43.158812: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.161159: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.161169: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.162043: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.162585: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55fa60efceb0 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.162620: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+terminate called after throwing an instance of 'std::system_error'
+  what():  Resource temporarily unavailable
+terminate called after throwing an instance of 'terminate called after throwing an instance of 'std::system_errorstd::system_error'
+'
+  what():    what():  Resource temporarily unavailableResource temporarily unavailable
+
+terminate called after throwing an instance of 'std::system_error'
+  what():  Resource temporarily unavailable
+terminate called after throwing an instance of 'std::system_error'
+  what():  Resource temporarily unavailable
+terminate called after throwing an instance of 'std::system_error'
+  what():  Resource temporarily unavailable
+terminate called after throwing an instance of 'std::system_error'
+  what():  Resource temporarily unavailable
+terminate called after throwing an instance of 'std::system_error'
+  what():  Resource temporarily unavailable
+2020-02-27 14:35:43.168092: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.168347: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.170492: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.170845: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.170934: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.172223: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.172263: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.172366: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.173539: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5615b2881a50 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.173602: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.174898: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55df48259c30 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.174931: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.175005: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5607ce104180 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.175040: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.175029: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x561c82865470 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.175068: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.175323: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x560a3bc1e440 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.175355: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.176011: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55e837fe4810 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.176041: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.176130: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55bf05266710 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.176160: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.176270: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55567c687620 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.176298: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.177018: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+terminate called after throwing an instance of 'std::system_error'
+  what():  Resource temporarily unavailable
+terminate called after throwing an instance of 'std::system_error'
+  what():  Resource temporarily unavailable
+terminate called after throwing an instance of 'std::system_error'
+  what():  Resource temporarily unavailable
+2020-02-27 14:35:43.186376: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.186820: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.189427: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.191578: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x556f2506bd30 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.191607: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+2020-02-27 14:35:43.191872: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55a966beae80 executing computations on platform Host. Devices:
+2020-02-27 14:35:43.191868: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2397385000 Hz
+2020-02-27 14:35:43.191905: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+terminate called after throwing an instance of 'std::system_error'
+  what():  Resource temporarily unavailable
+terminate called after throwing an instance of 'std::system_error'
+  what():  Resource temporarily unavailable
+2020-02-27 14:35:43.240812: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+2020-02-27 14:35:43.241917: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+2020-02-27 14:35:43.242836: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+2020-02-27 14:35:43.243980: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+2020-02-27 14:35:43.244925: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+2020-02-27 14:35:43.245796: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+2020-02-27 14:35:43.246658: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+2020-02-27 14:35:43.247548: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+terminate called after throwing an instance of 'terminate called after throwing an instance of 'terminate called after throwing an instance of 'std::system_errorstd::system_errorstd::system_error'
+'
+'
+  what():    what():    what():  Resource temporarily unavailableResource temporarily unavailableResource temporarily unavailable
+
+
+terminate called after throwing an instance of 'std::system_error'
+  what():  Resource temporarily unavailable
+2020-02-27 14:35:43.249275: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+2020-02-27 14:35:43.250720: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+2020-02-27 14:35:43.251665: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+2020-02-27 14:35:43.253251: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+2020-02-27 14:35:43.254077: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+2020-02-27 14:35:43.254884: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+2020-02-27 14:35:43.255752: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+2020-02-27 14:35:43.255892: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+2020-02-27 14:35:43.256054: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+2020-02-27 14:35:43.256214: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+2020-02-27 14:35:43.257363: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+2020-02-27 14:35:43.258530: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+2020-02-27 14:35:43.259576: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+terminate called after throwing an instance of 'std::system_error'
+  what():  Resource temporarily unavailable
+terminate called after throwing an instance of 'std::system_error'
+  what():  Resource temporarily unavailable
+terminate called after throwing an instance of 'std::system_errorterminate called after throwing an instance of ''
+std::system_error'
+  what():  Resource temporarily unavailable  what():  
+Resource temporarily unavailable
+terminate called after throwing an instance of 'std::system_error'
+  what():  Resource temporarily unavailable
+terminate called after throwing an instance of 'std::system_error'
+  what():  Resource temporarily unavailable
+2020-02-27 14:35:43.261448: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+2020-02-27 14:35:43.261921: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+terminate called after throwing an instance of 'std::system_error'
+  what():  Resource temporarily unavailable
+terminate called after throwing an instance of 'std::system_error'
+  what():  Resource temporarily unavailable
+2020-02-27 14:35:43.264689: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+2020-02-27 14:35:43.265820: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+2020-02-27 14:35:43.267043: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+2020-02-27 14:35:43.267859: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+2020-02-27 14:35:43.267972: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+2020-02-27 14:35:43.268239: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+2020-02-27 14:35:43.268096: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+2020-02-27 14:35:43.269412: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+2020-02-27 14:35:43.270473: I tensorflow/core/common_runtime/process_util.cc:115] Creating new thread pool with default inter op setting: 56. Tune using inter_op_parallelism_threads for best performance.
+[Parallel(n_jobs=-1)]: Done   1 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done   2 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done   3 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done   4 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done   5 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done   6 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done   7 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done   8 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done   9 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  10 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  11 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  12 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  13 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  14 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  15 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  16 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  17 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  18 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  19 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  20 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  21 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  22 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  23 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  24 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  25 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  26 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  27 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  28 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  29 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  30 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  31 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  32 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  33 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  34 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  35 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  36 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  37 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  38 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  39 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  40 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  41 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  42 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  43 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  44 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  45 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  46 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  47 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  48 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  49 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  50 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  51 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  52 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  53 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  54 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  55 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  56 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  57 tasks      | elapsed:   14.7s
+[Parallel(n_jobs=-1)]: Done  58 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  59 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  60 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  61 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  62 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  63 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  64 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  65 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  66 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  67 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  68 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  69 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  70 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  71 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  72 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  73 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  74 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  75 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  76 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  77 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  78 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  79 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  80 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  81 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  82 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  83 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  84 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  85 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  86 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  87 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  88 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  89 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  90 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  91 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  92 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  93 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  94 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  95 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  96 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  97 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  98 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done  99 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done 100 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done 101 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done 102 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done 103 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done 104 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done 105 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done 106 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done 107 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done 108 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done 109 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done 110 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done 111 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done 112 tasks      | elapsed:   14.8s
+/uufs/chpc.utah.edu/common/home/u0890904/software/pkg/miniconda3/envs/CO2_Eddy/lib/python3.7/site-packages/joblib/externals/loky/backend/utils.py:55: UserWarning: Failed to kill subprocesses on this platform. Pleaseinstall psutil: https://github.com/giampaolo/psutil
+  warnings.warn("Failed to kill subprocesses on this platform. Please"
+Traceback (most recent call last):
+  File "gridsearch.py", line 82, in <module>
+    grid_result = grid.fit(X_train, y_train,verbose=False)
+  File "/uufs/chpc.utah.edu/common/home/u0890904/software/pkg/miniconda3/envs/CO2_Eddy/lib/python3.7/site-packages/sklearn/model_selection/_search.py", line 710, in fit
+    self._run_search(evaluate_candidates)
+  File "/uufs/chpc.utah.edu/common/home/u0890904/software/pkg/miniconda3/envs/CO2_Eddy/lib/python3.7/site-packages/sklearn/model_selection/_search.py", line 1151, in _run_search
+    evaluate_candidates(ParameterGrid(self.param_grid))
+  File "/uufs/chpc.utah.edu/common/home/u0890904/software/pkg/miniconda3/envs/CO2_Eddy/lib/python3.7/site-packages/sklearn/model_selection/_search.py", line 689, in evaluate_candidates
+    cv.split(X, y, groups)))
+  File "/uufs/chpc.utah.edu/common/home/u0890904/software/pkg/miniconda3/envs/CO2_Eddy/lib/python3.7/site-packages/joblib/parallel.py", line 1017, in __call__
+    self.retrieve()
+  File "/uufs/chpc.utah.edu/common/home/u0890904/software/pkg/miniconda3/envs/CO2_Eddy/lib/python3.7/site-packages/joblib/parallel.py", line 909, in retrieve
+    self._output.extend(job.get(timeout=self.timeout))
+  File "/uufs/chpc.utah.edu/common/home/u0890904/software/pkg/miniconda3/envs/CO2_Eddy/lib/python3.7/site-packages/joblib/_parallel_backends.py", line 562, in wrap_future_result
+    return future.result(timeout=timeout)
+  File "/uufs/chpc.utah.edu/common/home/u0890904/software/pkg/miniconda3/envs/CO2_Eddy/lib/python3.7/concurrent/futures/_base.py", line 435, in result
+    return self.__get_result()
+  File "/uufs/chpc.utah.edu/common/home/u0890904/software/pkg/miniconda3/envs/CO2_Eddy/lib/python3.7/concurrent/futures/_base.py", line 384, in __get_result
+    raise self._exception
+joblib.externals.loky.process_executor.TerminatedWorkerError: A worker process managed by the executor was unexpectedly terminated. This could be caused by a segmentation fault while calling the function or by an excessive memory usage causing the Operating System to kill the worker. The exit codes of the workers are {SIGABRT(-6)}
