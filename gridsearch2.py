@@ -19,7 +19,7 @@ from keras.models import model_from_json
 import json
 from keras.wrappers.scikit_learn import KerasRegressor
 
-df = pd.read_pickle('PN4_100sdown.pkl') # This is data resampled at 100 seconds
+df = pd.read_pickle('PN4_10S_downsample.pkl') # This is data resampled at 100 seconds
 df = df.resample('10T').mean()
 #TIME LAG
 df_to_use = df
