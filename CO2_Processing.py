@@ -360,3 +360,10 @@ def process_for_ML_test(cols,downsample_secs,lag_secs,tower_id,pn,percent_train)
     X_test = X_test.reshape((X_test.shape[0], n_seconds, n_features))
 
     return X_train,X_test,y_train,y_test,min_max_scalar,orig_X_train_shape,orig_X_test_shape,orig_y_train_shape,orig_y_test_shape
+
+#################################################################################
+def print_log_flush(string,logfile):
+    print(string,flush=True)
+    if logfile is not None:
+        logfile.write(string+'\n')
+        logfile.flush()
