@@ -68,10 +68,10 @@ class ML_Model_Builder:
         self.history = self.model.fit(data.X_train,data.y_train,epochs=self.epochs,batch_size=self.batch_size,\
                                       validation_data=(data.X_test,data.y_test),verbose=1)
 
-        del self.model
-        tf.keras.backend.clear_session()
-        tf.compat.v1.reset_default_graph() # TF graph isn't same as Keras graph
-        gc.collect()
+        #del self.model
+        #tf.keras.backend.clear_session()
+        #tf.compat.v1.reset_default_graph() # TF graph isn't same as Keras graph
+        #gc.collect()
         
         #print(f"Final RMSE for this model: {self.history.history['rmse'][-1]}")
     
