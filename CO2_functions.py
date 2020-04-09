@@ -1117,7 +1117,7 @@ def wind_dir(x,y,pos):
 
 #==============================================================================================================#
 
-def wind_add(df,x_lab,y_lab):
+def wind_add(df_in,x_lab,y_lab):
     ######################################################################
     # Use R to plot a bivariate polar plot. Uses R package "openair"     #
     # Converts a pandas dataframe to r dataframe and plots.              #
@@ -1129,6 +1129,7 @@ def wind_add(df,x_lab,y_lab):
     #                         calculation                                #
     ######################################################################
     import numpy as np
+    df = df_in.copy()
     print("Adding Wind Direction as 'wd'")
     wd_vec = np.vectorize(wind_dir) #vectorize the wind direction function
     if 'Pic_Loc' in df.columns:

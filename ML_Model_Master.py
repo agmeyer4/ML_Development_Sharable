@@ -56,23 +56,22 @@ class ML_Model_Builder:
         self.feature_columns = data.feature_columns
         self.tower = data.tower
         self.train_percent = data.train_percent
-        if (hasattr(data,'logfile')) & (not hasattr(self,'logfile')):
-            self.logfile = data.logfile
+        #if (hasattr(data,'logfile')) & (not hasattr(self,'logfile')):
+         #   self.logfile = data.logfile
         if not hasattr(self,'model'):
             self._create_model()
         
-        print_log_flush(f"Downsampling = {self.downsample_sec}\nLag Periods = {self.periods_to_lag}\
+        print(f"Downsampling = {self.downsample_sec}\nLag Periods = {self.periods_to_lag}\
         \nactivation={self.activation}\nneurons={self.neurons}\ndropout_rate={self.dropout_rate}\
-        \nlearn_rate={self.learn_rate}\ndecay={self.decay}\nbatch size={self.batch_size}\nepochs={self.epochs}",self.logfile)
+        \nlearn_rate={self.learn_rate}\ndecay={self.decay}\nbatch size={self.batch_size}\nepochs={self.epochs}")
         
         self.history = self.model.fit(data.X_train,data.y_train,epochs=self.epochs,batch_size=self.batch_size,\
                                       validation_data=(data.X_test,data.y_test),verbose=1)
 
         #del self.model
-        #tf.keras.backend.clear_session()
-        #tf.compat.v1.reset_default_graph() # TF graph isn't same as Keras graph
         #gc.collect()
-        
+        #K.clear_session()
+        #tf.compat.v1.reset_default_graph() # TF graph isn't same as Keras graph
         #print(f"Final RMSE for this model: {self.history.history['rmse'][-1]}")
     
     def _del_and_clear(self):
