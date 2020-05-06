@@ -345,7 +345,10 @@ def plot_stacked_same(args):
     
     
     for arg in args:
-        ax.plot(arg[0][arg[1]],arg[0][arg[2]])
+        if (arg[2] == 'wd')|(arg[2] == 'Wind_Direction'):
+            ax.scatter(arg[0][arg[1]],arg[0][arg[2]],s=2)
+        else:
+            ax.plot(arg[0][arg[1]],arg[0][arg[2]])
     plt.gcf().autofmt_xdate()
     fig.tight_layout()
     plt.show()
@@ -382,8 +385,8 @@ def plot_vertical_stack(args):
             ax.plot(arg[0][arg[1]],arg[0][arg[2]])
             ax.set_title("{}".format(arg[2]),size=20)
 
-        if ('ANEM_X' in arg[0].columns) & (arg[2] == 'CO2'):
-            ax.set_ylim([390,650]) 
+#         if ('ANEM_X' in arg[0].columns) & (arg[2] == 'CO2'):
+#             ax.set_ylim([390,650]) 
         i+=1
     plt.gcf().autofmt_xdate()
     fig.tight_layout()
@@ -1130,13 +1133,13 @@ def wind_add(df_in,x_lab,y_lab):
     ######################################################################
     import numpy as np
     df = df_in.copy()
-    print("Adding Wind Direction as 'wd'")
+    print(f"Adding Wind Direction for {x_lab},{y_lab} as 'wd'")
     wd_vec = np.vectorize(wind_dir) #vectorize the wind direction function
     if 'Pic_Loc' in df.columns:
         df['wd'] = wd_vec(df[x_lab],df[y_lab],df['Pic_Loc']) #add the 2d wind direction
     else:
         df['wd'] = wd_vec(df[x_lab],df[y_lab],1)
-    print("Adding Wind Speed as 'ws'")
+    print(f"Adding Wind Speed for {x_lab},{y_lab} as 'ws'")
     df['ws'] = np.sqrt(df[x_lab]**2+df[x_lab]**2) #add the 2d wind speed
     return df
 #==============================================================================================================#
