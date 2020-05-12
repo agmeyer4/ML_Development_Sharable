@@ -81,7 +81,7 @@ class Gridsearch_Result_Retrieve:
     def _get_best_data(self,data_path):
         print("-----Setup Data for Best Model Retrain-----")
         #Load Dataset from Folder
-        data = Processed_Set(self.tower,self.position_number,self.excess_rolls,True)
+        data = Processed_Set(self.tower,self.position_number,self.excess_rolls,vent_bool = True,wbb_bool=False)
         data._retrieve_data(data_path)
         data._apply_excess()
 

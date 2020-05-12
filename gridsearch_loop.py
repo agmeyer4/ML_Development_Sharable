@@ -5,7 +5,7 @@ import logging
 from datetime import datetime
 
 #Data parameters
-position_number = 1
+position_number = 6
 excess_rolls = [60,6000,36000] #these specify the rolling window on which a minimum is applied for excess 
 #feature_columns = ['Pic_CO2','Pic_CH4','ANEM_X','ANEM_Y','ANEM_Z','wd','ws']
 downsample_sec = 10
